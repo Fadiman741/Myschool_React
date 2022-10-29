@@ -1,0 +1,74 @@
+.Home-page {
+   width: 100vw;
+   height: auto;
+
+
+}
+
+.Home-page h1 {
+   position: absolute;
+   margin-top: 150px;
+   font-size: 100px;
+   margin-left: 4%;
+   color: #ddd;
+}
+
+.Home-page h2 {
+   position: absolute;
+   margin-top: 350px;
+   font-size: 90px;
+   margin-left: 4%;
+   color: #ddd;
+}
+
+.Home-page h3 {
+   position: absolute;
+   margin-top: 450px;
+   font-size: 90px;
+   margin-left: 4%;
+}
+
+.Home-page p {
+   position: absolute;
+   margin-top: 580px;
+   margin-left: 4%;
+   width: 40%;
+   color: #ddd;
+   border: 1px 1px 1px 10px orange;
+}
+
+.home-content .content-image img {
+   height: 100vh;
+   width: 100vw;
+
+}
+
+.signup-buttons a {
+   position: absolute;
+   display: inline-block;
+   margin-top: 700px;
+   margin-left: 4%;
+   border: 5px solid orange;
+   background-color: #bbb;
+   color: black;
+   padding: 15px 32px;
+   border-radius: 5px;
+   font-size: 16px;
+
+   cursor: pointer;
+
+}
+
+.signup-buttons a:hover {
+   background-color: rgb(53, 52, 52);
+   color: white;
+}
+
+.Home-page .signup-buttons a {
+   text-decoration: none;
+   font-size: 16px;
+}
+
+.Home-page .intro-content h3 {
+   color: orange;
+}
